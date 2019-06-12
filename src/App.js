@@ -15,7 +15,6 @@ function App() {
   const [imageCount, incrementImageCount] = useState(0); //current position in a array
   const [currentLogo, changeImage] = useState(imageData[imageCount]);
   const [userInput, setUserInput] = useState("");
-  // const [winPoint, setWinPoint] = useState(0);
   let findMatchingString = () => {
     // console.log(data[imageCount].matches, data[imageCount].matches.length);
     for (let i = 0; i < data[imageCount].matches.length; i++) {
