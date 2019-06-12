@@ -1,0 +1,202 @@
+[
+  {
+    "logo": "react.svg",
+    "matches": ["react"]
+  },
+  {
+    "logo": "react-styleguideist.svg",
+    "matches": ["styleguideist", "react styleguideist"]
+  },
+  {
+    "logo": "react-router.svg",
+    "matches": ["react-router", "react router"]
+  },
+  {
+    "logo": "raspberry-pi.svg",
+    "matches": ["raspberry-pi", "raspberry pi"]
+  },
+  {
+    "logo": "raphael.svg",
+    "matches": ["raphael"]
+  },
+  {
+    "logo": "python.svg",
+    "matches": ["python"]
+  },
+  {
+    "logo": "prettier.svg",
+    "matches": ["prettier"]
+  },
+  {
+    "logo": "polymer.svg",
+    "matches": ["polymer"]
+  },
+  {
+    "logo": "patreon.svg",
+    "matches": ["patreon", "react styleguideist"]
+  },
+  {
+    "logo": "opensource.svg",
+    "matches": ["opensource", "open source"]
+  },
+  {
+    "logo": "openshift.svg",
+    "matches": ["openshift", "open shift"]
+  },
+  {
+    "logo": "open-graph.svg",
+    "matches": ["opengraph", "open graph"]
+  },
+  {
+    "logo": "nuxt.svg",
+    "matches": ["nuxt"]
+  },
+  {
+    "logo": "nuclide.svg",
+    "matches": ["nuclide"]
+  },
+  {
+    "logo": "nodejs-icon.svg",
+    "matches": ["nodejs", "node"]
+  },
+  {
+    "logo": "nightwatch.svg",
+    "matches": ["nightwatch"]
+  },
+  {
+    "logo": "netlify.svg",
+    "matches": ["netlify"]
+  },
+  {
+    "logo": "microsoft-edge.svg",
+    "matches": ["edge", "microsoft edge"]
+  },
+  {
+    "logo": "metabase.svg",
+    "matches": ["metabase"]
+  },
+  {
+    "logo": "medium.svg",
+    "matches": ["medium"]
+  },
+  {
+    "logo": "mdn.svg",
+    "matches": ["mdn", "mozilla developer network"]
+  },
+  {
+    "logo": "markdown.svg",
+    "matches": ["markdown", "md"]
+  },
+  {
+    "logo": "kubernetes.svg",
+    "matches": ["kubernetes"]
+  },
+  {
+    "logo": "kong.svg",
+    "matches": ["kong"]
+  },
+  {
+    "logo": "json.svg",
+    "matches": ["json"]
+  },
+  {
+    "logo": "jsfiddle.svg",
+    "matches": ["jsfiddle"]
+  },
+  {
+    "logo": "jsdom.svg",
+    "matches": ["jsdom"]
+  },
+  {
+    "logo": "jsdelivr.svg",
+    "matches": ["jsdelivr"]
+  },
+  {
+    "logo": "jruby.svg",
+    "matches": ["jruby"]
+  },
+  {
+    "logo": "javascript.svg",
+    "matches": ["javascript"]
+  },
+  {
+    "logo": "inferno.svg",
+    "matches": ["inferno"]
+  },
+  {
+    "logo": "hexo.svg",
+    "matches": ["hexo"]
+  },
+  {
+    "logo": "gravatar.svg",
+    "matches": ["gravatar"]
+  },
+  {
+    "logo": "graphql.svg",
+    "matches": ["graphql"]
+  },
+  {
+    "logo": "gitter.svg",
+    "matches": ["gitter"]
+  },
+  {
+    "logo": "git-icon.svg",
+    "matches": ["git"]
+  },
+  {
+    "logo": "gatsby.svg",
+    "matches": ["gatsby"]
+  },
+  {
+    "logo": "flutter.svg",
+    "matches": ["flutter"]
+  },
+  {
+    "logo": "flow.svg",
+    "matches": ["flow"]
+  },
+  {
+    "logo": "firefox.svg",
+    "matches": ["firefox"]
+  },
+  {
+    "logo": "firebase.svg",
+    "matches": ["firebase"]
+  },
+  {
+    "logo": "falcor.svg",
+    "matches": ["falcor"]
+  },
+  {
+    "logo": "eslint.svg",
+    "matches": ["eslint"]
+  },
+  {
+    "logo": "elm.svg",
+    "matches": ["elm"]
+  },
+  {
+    "logo": "electron.svg",
+    "matches": ["electron"]
+  },
+  {
+    "logo": "codeship.svg",
+    "matches": ["codeship"]
+  },
+  {
+    "logo": "codesandbox.svg",
+    "matches": ["codesandbox", "code sandbox"]
+  },
+  {
+    "logo": "coderwall.svg",
+    "matches": ["coderwall"]
+  },
+  {
+    "logo": "codepen-icon.svg",
+    "matches": ["codepen"]
+  },
+  {
+    "logo": "codefactor.svg",
+    "matches": ["codefactor"]
+  }
+]

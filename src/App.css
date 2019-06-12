@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -30,4 +30,44 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.logoWiz-Wrapper {
+  display: block;
+  text-align: center;
+  /* width: 100%; */
+}
+
+.logoWiz {
+  font-size: 50px;
+  font-weight: 300;
+}
+.img-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+.img-wrapper img {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+
+  margin: 20px;
+}
+.img-wrapper input {
+  width: 200px;
+
+  border: 1px dashed grey;
+  height: 60px;
+}
+.img-wrapper button {
+  width: 100px;
+  margin-top: 20px;
+  background-color: grey;
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 50px;
+  font-size: 18px;
 }
